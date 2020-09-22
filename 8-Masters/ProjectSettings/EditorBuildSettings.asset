@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: a4865e13c5d0fb14d8b51a39e7c3c506
+  - enabled: 1
+    path: Assets/Scenes/CustomizationMenu.unity
+    guid: 34a1cc83f7ce90c42a010e351809476a
+  - enabled: 1
+    path: Assets/Scenes/AirArena.unity
+    guid: e4d24287c50b56245b4ab10a1752f21f
+  - enabled: 1
+    path: Assets/Scenes/Desert.unity
+    guid: b169249e7062be243934d1b643d683b6
+  - enabled: 1
+    path: Assets/Scenes/Bridge.unity
+    guid: 714cf476e22920640931c1d257346978
+  - enabled: 1
+    path: Assets/Scenes/MissionMenu.unity
+    guid: 944f2e31b0f5b4e43b2dcace0a3e8acd
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 63ab99e850188244bb1985e11ee39e1b
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Manufacture.unity
+    guid: a5471212c306f33498378e7128f72ee9
+  - enabled: 1
+    path: Assets/Scenes/Arena.unity
+    guid: 535812224ef6b6d44a6559a3bdd80b31
+  - enabled: 1
+    path: Assets/Scenes/Rainforest.unity
+    guid: 72c8f3d8c4ec7d046b9573fd77ca456f
+  - enabled: 1
+    path: Assets/Scenes/Underground.unity
+    guid: 32e6d161bb18f9142ac91dac1fab6235
+  - enabled: 1
+    path: Assets/Scenes/FinalStage1.unity
+    guid: aff98bee199488a4a9e20f5b8f98168c
+  - enabled: 1
+    path: Assets/Scenes/FinalStage2.unity
+    guid: cbf58e7e26253ae4786b11b81ee69564
+  - enabled: 1
+    path: Assets/Scenes/Closing.unity
+    guid: 07c14edd4ddc10044bec4c851d9269f3
+  - enabled: 1
+    path: Assets/Scenes/TestingRoom.unity
+    guid: 004980ff003579a43960aa69f14fa6ec
+  - enabled: 1
+    path: Assets/Scenes/HowToPlay1.unity
+    guid: 8e99661f664fe2a40943bba3cf581213
+  - enabled: 1
+    path: Assets/Scenes/HowToPlay2.unity
+    guid: 250077a851dfa3148a407ffab2862cf8
+  - enabled: 1
+    path: Assets/Scenes/HowToPlay3.unity
+    guid: 4eff7391e171f864cbfdfce107111db9
+  - enabled: 1
+    path: Assets/Scenes/HowToPlay4.unity
+    guid: c4d23a9cc9dda7747971244ed6e6ada3
+  - enabled: 1
+    path: Assets/Scenes/HowToPlay5.unity
+    guid: 7161f3fb0be4bb44587bdd6f2e9b1d4d
+  - enabled: 1
+    path: Assets/Scenes/HowToPlay6.unity
+    guid: f7ce5ab45caa3344584b26cb2098d31a
+  - enabled: 1
+    path: Assets/Scenes/HowToPlay7.unity
+    guid: 1065780e1f52470439a90dd95c088d47
+  - enabled: 1
+    path: Assets/Scenes/HowToPlay8.unity
+    guid: 5aac78da7a9c3f94abbd1e2d0bfe5a83
+  - enabled: 1
+    path: Assets/Scenes/HowToPlay9.unity
+    guid: 621d0a5b501b97a4090ef8aaae7f46a7
+  - enabled: 1
+    path: Assets/Scenes/HowToPlay10.unity
+    guid: 16513a8eab9bce8479fd6a19dfc40f91
+  m_configObjects: {}

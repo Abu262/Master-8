@@ -1,0 +1,1052 @@
+fileFormatVersion: 2
+guid: e8bed0b331d96774abb3eb77ff27c217
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3644835243953909482
+    second: rainforestv2_0
+  - first:
+      213: -7504302139714683120
+    second: rainforestv2_1
+  - first:
+      213: -9014604238878256385
+    second: rainforestv2_2
+  - first:
+      213: -2372021585672812344
+    second: rainforestv2_3
+  - first:
+      213: -2702925380708531310
+    second: rainforestv2_4
+  - first:
+      213: -6284638743151845459
+    second: rainforestv2_5
+  - first:
+      213: 1709068701914049508
+    second: rainforestv2_6
+  - first:
+      213: -6491257201117320478
+    second: rainforestv2_7
+  - first:
+      213: 1107517062571192938
+    second: rainforestv2_8
+  - first:
+      213: -4219236072724102596
+    second: rainforestv2_9
+  - first:
+      213: 7239478261488827844
+    second: rainforestv2_10
+  - first:
+      213: -6772742936518556649
+    second: rainforestv2_11
+  - first:
+      213: -4492978756924249023
+    second: rainforestv2_12
+  - first:
+      213: 4471950006027524220
+    second: rainforestv2_13
+  - first:
+      213: -7125261169257729342
+    second: rainforestv2_14
+  - first:
+      213: -9099168826938755806
+    second: rainforestv2_15
+  - first:
+      213: -4617908000073243217
+    second: rainforestv2_16
+  - first:
+      213: 1807383412192520411
+    second: rainforestv2_17
+  - first:
+      213: 541645223364976704
+    second: rainforestv2_18
+  - first:
+      213: -1782246050877198448
+    second: rainforestv2_19
+  - first:
+      213: -7500022924895554745
+    second: rainforestv2_20
+  - first:
+      213: 812545276208814900
+    second: rainforestv2_21
+  - first:
+      213: -5386190329858854051
+    second: rainforestv2_22
+  - first:
+      213: -3545590652783768466
+    second: rainforestv2_23
+  - first:
+      213: 5742257029462215167
+    second: rainforestv2_24
+  - first:
+      213: 2556734745319286467
+    second: rainforestv2_25
+  - first:
+      213: -6465173063651749467
+    second: rainforestv2_26
+  - first:
+      213: -6706998844120814296
+    second: rainforestv2_27
+  - first:
+      213: -786556684984072656
+    second: rainforestv2_28
+  - first:
+      213: 2849038633194474680
+    second: rainforestv2_29
+  - first:
+      213: 4709038008399104165
+    second: rainforestv2_30
+  - first:
+      213: -3627343287889991392
+    second: rainforestv2_31
+  - first:
+      213: 7577987430002773115
+    second: rainforestv2_32
+  - first:
+      213: -5805416851924280338
+    second: rainforestv2_33
+  - first:
+      213: 6498399093610662459
+    second: rainforestv2_34
+  - first:
+      213: -7130692121759032370
+    second: rainforestv2_35
+  - first:
+      213: -744622311222031879
+    second: rainforestv2_36
+  - first:
+      213: -6056296397551879511
+    second: rainforestv2_37
+  - first:
+      213: 129770844292561259
+    second: rainforestv2_38
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rainforestv2_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 580
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee62bcd75e059230800000000000000
+      internalID: 3644835243953909482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestv2_1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 508
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f3a13a6fc5bd790800000000000000
+      internalID: -7504302139714683120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestv2_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 508
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff25ee6c431b5e280800000000000000
+      internalID: -9014604238878256385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestv2_3
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 436
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8c9627fe2e41fd0800000000000000
+      internalID: -2372021585672812344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestv2_4
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 436
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2930b7cdfa74d7ad0800000000000000
+      internalID: -2702925380708531310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestv2_5
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 364
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dafd6cc4c5a78c8a0800000000000000
+      internalID: -6284638743151845459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestv2_6
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 364
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb235aede4d7b710800000000000000
+      internalID: 1709068701914049508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestv2_7
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 364
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eaa4bdb7fb6ae5a0800000000000000
+      internalID: -6491257201117320478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestv2_8
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 364
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a627d3986e0be5f00800000000000000
+      internalID: 1107517062571192938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestv2_9
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 364
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3204c575234275c0800000000000000
+      internalID: -4219236072724102596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestv2_10
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 364
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd34375f1bc77460800000000000000
+      internalID: 7239478261488827844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestv2_11
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 292
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71486c9ce226202a0800000000000000
+      internalID: -6772742936518556649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestv2_12
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 292
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c672a10abb5a1c0800000000000000
+      internalID: -4492978756924249023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestv2_13
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 292
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78939a46de8f0e30800000000000000
+      internalID: 4471950006027524220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestv2_14
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 292
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c23282c7bcfd1d90800000000000000
+      internalID: -7125261169257729342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestv2_15
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 292
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225f10f492249b180800000000000000
+      internalID: -9099168826938755806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestv2_16
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 292
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa523320425e9efb0800000000000000
+      internalID: -4617908000073243217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestv2_17
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd82ba033ad151910800000000000000
+      internalID: 1807383412192520411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestv2_18
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040e4fcf57f448700800000000000000
+      internalID: 541645223364976704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestv2_19
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f2f13d8a03447e0800000000000000
+      internalID: -1782246050877198448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestv2_20
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743705af2e09ae790800000000000000
+      internalID: -7500022924895554745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestv2_21
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b1958af9db64b00800000000000000
+      internalID: 812545276208814900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestv2_22
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d537e18ae686045b0800000000000000
+      internalID: -5386190329858854051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestv2_23
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6cc0ed26188bcec0800000000000000
+      internalID: -3545590652783768466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestv2_24
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9c512385890bf40800000000000000
+      internalID: 5742257029462215167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestv2_25
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 148
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6a7a764b85b7320800000000000000
+      internalID: 2556734745319286467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestv2_26
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 148
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a11d914a571746a0800000000000000
+      internalID: -6465173063651749467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestv2_27
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 148
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d29332614fbe2a0800000000000000
+      internalID: -6706998844120814296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestv2_28
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 148
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036c0d3ccd69515f0800000000000000
+      internalID: -786556684984072656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestv2_29
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 76
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bccbe2ca81d98720800000000000000
+      internalID: 2849038633194474680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestv2_30
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 76
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8017c7e1dd95140800000000000000
+      internalID: 4709038008399104165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestv2_31
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 76
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0296be68f7619adc0800000000000000
+      internalID: -3627343287889991392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestv2_32
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 76
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7cc0bdea6b6a2960800000000000000
+      internalID: 7577987430002773115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestv2_33
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 76
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb9cffa1240f6fa0800000000000000
+      internalID: -5805416851924280338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestv2_34
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 76
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a426fab83fe2a50800000000000000
+      internalID: 6498399093610662459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestv2_35
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb50e79b41ba0d90800000000000000
+      internalID: -7130692121759032370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestv2_36
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 4
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9c7cff3f19aa5f0800000000000000
+      internalID: -744622311222031879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestv2_37
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 4
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa31799386b3fba0800000000000000
+      internalID: -6056296397551879511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestv2_38
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 4
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69b24435e90dc100800000000000000
+      internalID: 129770844292561259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2243badcae4ec7141a611733928dc1be
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

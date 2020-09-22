@@ -1,0 +1,1438 @@
+fileFormatVersion: 2
+guid: 45cef8d29b1682f4981ed6237fda93ae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3262935365670893631
+    second: EgyptTemp_0
+  - first:
+      213: 2564361376566383059
+    second: EgyptTemp_1
+  - first:
+      213: -2144499872501299016
+    second: EgyptTemp_2
+  - first:
+      213: -4301663158343037093
+    second: EgyptTemp_3
+  - first:
+      213: -7124505465012813255
+    second: EgyptTemp_4
+  - first:
+      213: 3669582577742558989
+    second: EgyptTemp_5
+  - first:
+      213: 5094611052268789113
+    second: EgyptTemp_6
+  - first:
+      213: 8245634650985150295
+    second: EgyptTemp_7
+  - first:
+      213: -7750553350545640153
+    second: EgyptTemp_8
+  - first:
+      213: -8449595178592110323
+    second: EgyptTemp_9
+  - first:
+      213: 6504806814159976169
+    second: EgyptTemp_10
+  - first:
+      213: -3701049503432025027
+    second: EgyptTemp_11
+  - first:
+      213: -7684236599023793942
+    second: EgyptTemp_12
+  - first:
+      213: -943004308962271273
+    second: EgyptTemp_13
+  - first:
+      213: 1624230617287142564
+    second: EgyptTemp_14
+  - first:
+      213: -7052036757602749413
+    second: EgyptTemp_15
+  - first:
+      213: -8116971143598307757
+    second: EgyptTemp_16
+  - first:
+      213: 7704326297039221886
+    second: EgyptTemp_17
+  - first:
+      213: -5390104002899819490
+    second: EgyptTemp_18
+  - first:
+      213: -3563689866202892207
+    second: EgyptTemp_19
+  - first:
+      213: 8977741266937235417
+    second: EgyptTemp_20
+  - first:
+      213: 1675408641168192887
+    second: EgyptTemp_21
+  - first:
+      213: 1031112021764350254
+    second: EgyptTemp_22
+  - first:
+      213: -3289492653324825190
+    second: EgyptTemp_23
+  - first:
+      213: -2218603475907807482
+    second: EgyptTemp_24
+  - first:
+      213: -6287497699565660453
+    second: EgyptTemp_25
+  - first:
+      213: 4720959127324350620
+    second: EgyptTemp_26
+  - first:
+      213: -4140602926395875560
+    second: EgyptTemp_27
+  - first:
+      213: 4741900474896847341
+    second: EgyptTemp_28
+  - first:
+      213: 6202018177115798107
+    second: EgyptTemp_29
+  - first:
+      213: -4823061210875569258
+    second: EgyptTemp_30
+  - first:
+      213: -900072968474866427
+    second: EgyptTemp_31
+  - first:
+      213: 4130970879259516786
+    second: EgyptTemp_32
+  - first:
+      213: 4317801343867322358
+    second: EgyptTemp_33
+  - first:
+      213: 4466143264089618536
+    second: EgyptTemp_34
+  - first:
+      213: 1522255044390929326
+    second: EgyptTemp_35
+  - first:
+      213: 5694254581669569057
+    second: EgyptTemp_36
+  - first:
+      213: -1376461259374579532
+    second: EgyptTemp_37
+  - first:
+      213: 4687585936758557579
+    second: EgyptTemp_38
+  - first:
+      213: -8870569231633283581
+    second: EgyptTemp_39
+  - first:
+      213: -7180124206238286920
+    second: EgyptTemp_40
+  - first:
+      213: 1709331748681995054
+    second: EgyptTemp_41
+  - first:
+      213: -2493733727894305280
+    second: EgyptTemp_42
+  - first:
+      213: 5562212330483237010
+    second: EgyptTemp_43
+  - first:
+      213: -7137192791560270022
+    second: EgyptTemp_44
+  - first:
+      213: 7029077010282989357
+    second: EgyptTemp_45
+  - first:
+      213: -2410252291690447841
+    second: EgyptTemp_46
+  - first:
+      213: -4162829174347015191
+    second: EgyptTemp_47
+  - first:
+      213: 1461914228846435002
+    second: EgyptTemp_48
+  - first:
+      213: -7736799445268697968
+    second: EgyptTemp_49
+  - first:
+      213: 4827073222458852619
+    second: EgyptTemp_50
+  - first:
+      213: 8634456279479203514
+    second: EgyptTemp_51
+  - first:
+      213: -4887790152810307867
+    second: EgyptTemp_52
+  - first:
+      213: 7250044657223160118
+    second: EgyptTemp_53
+  - first:
+      213: -6589545973914717574
+    second: EgyptTemp_54
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EgyptTemp_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 292
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f387fd36d66484d20800000000000000
+      internalID: 3262935365670893631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgyptTemp_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 292
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d198fdd511769320800000000000000
+      internalID: 2564361376566383059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgyptTemp_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 292
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b880be5ab43d32e0800000000000000
+      internalID: -2144499872501299016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgyptTemp_3
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 292
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f049f062c6d44c0800000000000000
+      internalID: -4301663158343037093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgyptTemp_4
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 292
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932059dd60ca02d90800000000000000
+      internalID: -7124505465012813255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgyptTemp_5
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 292
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07be4489e9fce230800000000000000
+      internalID: 3669582577742558989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgyptTemp_6
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 292
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d924772c1b3b640800000000000000
+      internalID: 5094611052268789113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgyptTemp_7
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 292
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7573f9f17016e6270800000000000000
+      internalID: 8245634650985150295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgyptTemp_8
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 292
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7257308bac0807490800000000000000
+      internalID: -7750553350545640153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgyptTemp_9
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 292
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09f924f3f10dba80800000000000000
+      internalID: -8449595178592110323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgyptTemp_10
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 292
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6bb826557b54a50800000000000000
+      internalID: 6504806814159976169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgyptTemp_11
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c5ccbe51b33acc0800000000000000
+      internalID: -3701049503432025027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgyptTemp_12
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae88129a68b1c5590800000000000000
+      internalID: -7684236599023793942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgyptTemp_13
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df14a6c396c9e2f0800000000000000
+      internalID: -943004308962271273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgyptTemp_14
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aca6b0142d6a8610800000000000000
+      internalID: 1624230617287142564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgyptTemp_15
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b143718aee1222e90800000000000000
+      internalID: -7052036757602749413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgyptTemp_16
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3560abd10c9ba5f80800000000000000
+      internalID: -8116971143598307757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgyptTemp_17
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7439b8a2f34bea60800000000000000
+      internalID: 7704326297039221886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgyptTemp_18
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14ceb4a7f08235b0800000000000000
+      internalID: -5390104002899819490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgyptTemp_19
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158315ba2fa3b8ec0800000000000000
+      internalID: -3563689866202892207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgyptTemp_20
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7c82dbd18579c70800000000000000
+      internalID: 8977741266937235417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgyptTemp_21
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775337e484f304710800000000000000
+      internalID: 1675408641168192887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgyptTemp_22
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 148
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2126e4bbee3f4e00800000000000000
+      internalID: 1031112021764350254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgyptTemp_23
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 148
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d015b3cdf5952d0800000000000000
+      internalID: -3289492653324825190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgyptTemp_24
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 148
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6077111b4efe531e0800000000000000
+      internalID: -2218603475907807482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgyptTemp_25
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 148
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd69d43a7225eb8a0800000000000000
+      internalID: -6287497699565660453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgyptTemp_26
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 148
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c985e474057348140800000000000000
+      internalID: 4720959127324350620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgyptTemp_27
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 148
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f1b38839f9986c0800000000000000
+      internalID: -4140602926395875560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgyptTemp_28
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 148
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de19b76bb5d9ec140800000000000000
+      internalID: 4741900474896847341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgyptTemp_29
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 148
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ab0812caef11650800000000000000
+      internalID: 6202018177115798107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgyptTemp_30
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 148
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bdbc3e16b011db0800000000000000
+      internalID: -4823061210875569258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgyptTemp_31
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 148
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50dcf1a676c4283f0800000000000000
+      internalID: -900072968474866427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgyptTemp_32
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 148
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f1fbbb028245930800000000000000
+      internalID: 4130970879259516786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgyptTemp_33
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 76
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff7aef0279ebeb30800000000000000
+      internalID: 4317801343867322358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgyptTemp_34
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 76
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868b014d2adeafd30800000000000000
+      internalID: 4466143264089618536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgyptTemp_35
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 76
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3c77ac5e2202510800000000000000
+      internalID: 1522255044390929326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgyptTemp_36
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 76
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1222e016f5e060f40800000000000000
+      internalID: 5694254581669569057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgyptTemp_37
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 76
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b034e307c3d5ece0800000000000000
+      internalID: -1376461259374579532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgyptTemp_38
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 76
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b4c96d296ad0140800000000000000
+      internalID: 4687585936758557579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgyptTemp_39
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 76
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3060df8384865e480800000000000000
+      internalID: -8870569231633283581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgyptTemp_40
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 76
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbbbfb83131b5c90800000000000000
+      internalID: -7180124206238286920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgyptTemp_41
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 76
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23dc734b24c8b710800000000000000
+      internalID: 1709331748681995054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgyptTemp_42
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 76
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0060378036a746dd0800000000000000
+      internalID: -2493733727894305280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgyptTemp_43
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 76
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29040cb05a2f03d40800000000000000
+      internalID: 5562212330483237010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgyptTemp_44
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f429578f893fc90800000000000000
+      internalID: -7137192791560270022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgyptTemp_45
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 4
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2748c89c4c4c8160800000000000000
+      internalID: 7029077010282989357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgyptTemp_46
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 4
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c38be8f401d8ed0800000000000000
+      internalID: -2410252291690447841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgyptTemp_47
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 4
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ebd96aebe8aa36c0800000000000000
+      internalID: -4162829174347015191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgyptTemp_48
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 4
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba1b7ede33c94410800000000000000
+      internalID: 1461914228846435002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgyptTemp_49
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 4
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ce15655ed51a490800000000000000
+      internalID: -7736799445268697968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgyptTemp_50
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 4
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05c57955853df240800000000000000
+      internalID: 4827073222458852619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgyptTemp_51
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 4
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6bff62d30c3d770800000000000000
+      internalID: 8634456279479203514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgyptTemp_52
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 4
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eed61da0c41b2cb0800000000000000
+      internalID: -4887790152810307867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgyptTemp_53
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 4
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631518f04355d9460800000000000000
+      internalID: 7250044657223160118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgyptTemp_54
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 4
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7235b189da3d84a0800000000000000
+      internalID: -6589545973914717574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ed108a37599c6494098caa92a75d5ad5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: b9c5072cf76d01243a4b73d888b02a2d, type: 3}
+      name: _Emission
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

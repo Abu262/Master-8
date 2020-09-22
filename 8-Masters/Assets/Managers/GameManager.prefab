@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5241933017635988933
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5241933017635988935}
+  - component: {fileID: 5241933017635988932}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5241933017635988935
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5241933017635988933}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5241933017635988932
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5241933017635988933}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0170eded81f33649a77059e176c46d2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  slainEnemies: 0
+  LegList:
+  - {fileID: 7536201969894286908, guid: 99051bf6a259d4e41b7e8275c084401e, type: 3}
+  - {fileID: 2035371639228627868, guid: 8b711d0f5f47b8444990d03e7b81ac87, type: 3}
+  - {fileID: 6412629906064133605, guid: a7db56145c22a114e8440eaad7beebae, type: 3}
+  - {fileID: -3186562512048918634, guid: f7b4fd1655a909c44b7abde1da8c2622, type: 3}
+  - {fileID: 7762409606972724419, guid: 6fa801421fcc3234dac8b9cb4032ae14, type: 3}
+  - {fileID: 3566477295361467893, guid: f04995145a6eb6e4aa7cc73acaf36e22, type: 3}
+  - {fileID: -2358810299925276266, guid: 74f9cc0170c7e6d458e76afd02d62f42, type: 3}
+  - {fileID: -935598708596372219, guid: 9f36247b3fbe78d4aa2cd846c2caa879, type: 3}
+  - {fileID: 9077362436347701047, guid: b63d7c9a8a10e364eb0f391b13b4f2ba, type: 3}
+  - {fileID: -935598708596372219, guid: 2b3c0e7f710908e46af4e86357f77316, type: 3}
+  - {fileID: 6412629906064133605, guid: e08ce09e2bffd3646928a642191bcb56, type: 3}
+  - {fileID: 9077362436347701047, guid: 6e4f7e595fbae894bb6022e73d7aea99, type: 3}
+  - {fileID: 9077362436347701047, guid: eb7d6c1c8298f524c91523522f2546ac, type: 3}
+  WeaponRList:
+  - {fileID: 3307490053711099822, guid: e1305a1730838524a919690d10eddc28, type: 3}
+  - {fileID: 8398538583953120122, guid: 424b0569ae44b9348a5dcbb04334e939, type: 3}
+  - {fileID: 8657074258736277599, guid: 8fef004baa023b54b9bfd2cdc3472e9b, type: 3}
+  - {fileID: 691984037732912317, guid: 74c59677b73615e4395accd24ef6f9e7, type: 3}
+  - {fileID: -7706889240332625495, guid: 3313b16031146a54ca911940f565f840, type: 3}
+  - {fileID: -521066391424253945, guid: 2ab17a16fcd7adf4bbc62b5701b77c82, type: 3}
+  - {fileID: 6290054893099176716, guid: 825b339b3f35c514288cf99766a0bf92, type: 3}
+  - {fileID: -5008206242134310791, guid: 157d0956266375045837d7a816c53a81, type: 3}
+  - {fileID: 7232771190272920785, guid: e3a81b3020d7b144d94fdb858ebd7748, type: 3}
+  - {fileID: 691984037732912317, guid: 3fc967d477523174d9df3f472774f952, type: 3}
+  WeaponLList:
+  - {fileID: 9028867608888216883, guid: 375ae4d829ed1fc4aaac8698440795d5, type: 3}
+  - {fileID: -2949735841073416526, guid: dc57663ffb0969e4e8649954a02315d5, type: 3}
+  - {fileID: -9187585426746539758, guid: 10ec816b8ad69734d9dfdc0c72870b23, type: 3}
+  - {fileID: 2828338814237754795, guid: 02ef27ed66cf21440a74ebad1ba930f8, type: 3}
+  - {fileID: 747371309214448874, guid: c19e526692ecc8b4e95732d5f2efccfa, type: 3}
+  - {fileID: -739473142331462665, guid: 201a49ef3081f6b4eba863f58227ca0a, type: 3}
+  - {fileID: 8882557764289122764, guid: 3a0e1af440c4c6b489f4ab1c6f2171c6, type: 3}
+  - {fileID: -5924888942821747000, guid: d3449f21d8de0774ab451900db4c0f51, type: 3}
+  - {fileID: -4594098083314978385, guid: 66f2b86c293c2d44fb3eaf565e3a1f94, type: 3}
+  - {fileID: -4594098083314978385, guid: 960faf16c730acf48857558cad83c34f, type: 3}
+  HeadList:
+  - {fileID: 4164433169826233818, guid: a1e76e4fa0da5114fb57c96d4e95c707, type: 3}
+  - {fileID: 6640612427272079131, guid: 2b0e72953d5d2ae41bc743136312906c, type: 3}
+  - {fileID: 4338053954965608220, guid: 1b870f6db1f5088499668e23a17be8de, type: 3}
+  - {fileID: -4314772113745082156, guid: aa4ac889b32d18b4cbda0fb6dcadc1da, type: 3}
+  - {fileID: 7060670386192763664, guid: d7eb80cd67d3fd3428450b00ac4e5f01, type: 3}
+  - {fileID: 3412774727125342095, guid: de7e4d54fae525641acfb1bd0cb8288b, type: 3}
+  - {fileID: 7171565915612079587, guid: 1ccd468aa78857b45b16302d73a81ff7, type: 3}
+  - {fileID: 6260146230466535519, guid: 3c669b67818b34d448113e04835d060a, type: 3}
+  - {fileID: 6729354716419263845, guid: b9d491bc9a3db234ea826f4477f11de2, type: 3}
+  - {fileID: 6260146230466535519, guid: 5dddf2dfd50e2fa439f5c785f180faba, type: 3}
+  - {fileID: 7060670386192763664, guid: b9adf57d601f33542bb696cb77dc3790, type: 3}
+  - {fileID: 4338053954965608220, guid: c3f4749b6aa7418479df5d85e51b4c61, type: 3}
+  - {fileID: 4338053954965608220, guid: 4ea2cc24a043a734aa75c349317273ab, type: 3}
+  TorsoList:
+  - {fileID: 4105971300690003370, guid: da95102d3859bdd47999dd9004a3852e, type: 3}
+  - {fileID: 3142133690867894997, guid: 0b82f3bd6fe77394b9a7c1d90db2789e, type: 3}
+  - {fileID: 3129817008443723130, guid: 9b04e6991057b4f43b55eee8e0360e61, type: 3}
+  - {fileID: 3541886761641656239, guid: ff23127e0cdabc748a4ef55d83e3eb94, type: 3}
+  - {fileID: -5469814830760177978, guid: b9670e10a149201498b45f29a72454be, type: 3}
+  - {fileID: -7222175703094426024, guid: 456c3082260a6d84cbc3561f41143ebc, type: 3}
+  - {fileID: -2160792505385642421, guid: 5ff76b294441c264ca460f568cf72941, type: 3}
+  - {fileID: -369140741385299820, guid: 022eac54cbc33fc49ace7a16ef535b88, type: 3}
+  - {fileID: -6612142784047983722, guid: b80af06431224a743949d676afdbc52f, type: 3}
+  - {fileID: 3541886761641656239, guid: ebdf20fafc7af3b4b9ecd92258f21d30, type: 3}
+  - {fileID: -2160792505385642421, guid: dd9aac8335c06f142aadc3aa4f313d99, type: 3}
+  - {fileID: -5469814830760177978, guid: 6111b33e99e3bed41bc45a87587dba0d, type: 3}
+  - {fileID: -5469814830760177978, guid: baa7dcfb67d5c3545bab83774ee46b1a, type: 3}
+  statusE: 010000000000000000
+  statusPref: 000000000000000000000000000000000000000000000000000000000000000000000000
+  headID: 0
+  legsID: 0
+  torsoID: 0
+  gunRID: 0
+  gunLID: 0
+  headIDEnemy: 7
+  legsIDEnemy: 7
+  torsoIDEnemy: 7
+  gunRIDEnemy: 7
+  gunLIDEnemy: 7

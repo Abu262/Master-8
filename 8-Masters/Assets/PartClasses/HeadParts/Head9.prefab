@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8045732833992872943
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5609034447081371484}
+  - component: {fileID: 6729354716419263845}
+  m_Layer: 0
+  m_Name: Head9
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5609034447081371484
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8045732833992872943}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6729354716419263845
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8045732833992872943}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a537f81e591b7a4abc79335210d5a68, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Emitter: {fileID: 2100000, guid: 68db845f7de29c74ab85461e95b59e70, type: 2}
+  partName: RBEH_213
+  type: blast
+  ID: 0
+  part: {fileID: -4843121857029592810, guid: 60f35f01a7b1ccf428a714d1466286ca, type: 3}
+  weight: 700
+  hp: 700
+  radar: 10
+  cooldown: 10
+  damage: 10
+  cost: 1000
+  Override: {fileID: 4421743710510149944, guid: 031b6951c4a79e44dafdd46a6ce197a2,
+    type: 3}
+  overboost: 0
+  OA: {fileID: 4421743710510149944, guid: 031b6951c4a79e44dafdd46a6ce197a2, type: 3}

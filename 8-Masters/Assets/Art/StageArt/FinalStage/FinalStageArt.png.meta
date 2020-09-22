@@ -1,0 +1,1894 @@
+fileFormatVersion: 2
+guid: 9daba43718d5fea4dad9fbcfe474c54a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3731206655073082590
+    second: FinalStageArt_0
+  - first:
+      213: 1313576294159710537
+    second: FinalStageArt_1
+  - first:
+      213: 3838934567950651832
+    second: FinalStageArt_2
+  - first:
+      213: 3937774977486534682
+    second: FinalStageArt_3
+  - first:
+      213: -646024488729931627
+    second: FinalStageArt_4
+  - first:
+      213: 9088740534501000271
+    second: FinalStageArt_5
+  - first:
+      213: 2030829346691004604
+    second: FinalStageArt_6
+  - first:
+      213: -3288362116954872639
+    second: FinalStageArt_7
+  - first:
+      213: 1856941268494915238
+    second: FinalStageArt_8
+  - first:
+      213: -191027474235463279
+    second: FinalStageArt_9
+  - first:
+      213: 3078145682564921976
+    second: FinalStageArt_10
+  - first:
+      213: -1269967699682385913
+    second: FinalStageArt_11
+  - first:
+      213: -4857239159668652673
+    second: FinalStageArt_12
+  - first:
+      213: -4388745021017592784
+    second: FinalStageArt_13
+  - first:
+      213: -5217565628726084075
+    second: FinalStageArt_14
+  - first:
+      213: -8279292111216864728
+    second: FinalStageArt_15
+  - first:
+      213: -3548434866632829846
+    second: FinalStageArt_16
+  - first:
+      213: -6436396011203611336
+    second: FinalStageArt_17
+  - first:
+      213: -484712719650372347
+    second: FinalStageArt_18
+  - first:
+      213: 6308208255677204323
+    second: FinalStageArt_19
+  - first:
+      213: 8192397555675141468
+    second: FinalStageArt_20
+  - first:
+      213: -3417179213959817427
+    second: FinalStageArt_21
+  - first:
+      213: -7444833644893274466
+    second: FinalStageArt_22
+  - first:
+      213: 5683087543769639387
+    second: FinalStageArt_23
+  - first:
+      213: 5397974133201831345
+    second: FinalStageArt_24
+  - first:
+      213: 3860381766142173421
+    second: FinalStageArt_25
+  - first:
+      213: -6016804953709887861
+    second: FinalStageArt_26
+  - first:
+      213: 2711225763998909386
+    second: FinalStageArt_27
+  - first:
+      213: 3122393179934213649
+    second: FinalStageArt_28
+  - first:
+      213: 1832222672661454509
+    second: FinalStageArt_29
+  - first:
+      213: 1211618768466023371
+    second: FinalStageArt_30
+  - first:
+      213: -2880832530193524190
+    second: FinalStageArt_31
+  - first:
+      213: -2989309615038145837
+    second: FinalStageArt_32
+  - first:
+      213: -8105582559263167357
+    second: FinalStageArt_33
+  - first:
+      213: 1304398068152208577
+    second: FinalStageArt_34
+  - first:
+      213: 4770091232580530181
+    second: FinalStageArt_35
+  - first:
+      213: 1896668616690697067
+    second: FinalStageArt_36
+  - first:
+      213: 1649684294603138825
+    second: FinalStageArt_37
+  - first:
+      213: -5133945895004272657
+    second: FinalStageArt_38
+  - first:
+      213: 8924036015191977062
+    second: FinalStageArt_39
+  - first:
+      213: 5442709137582132905
+    second: FinalStageArt_40
+  - first:
+      213: 2604991745922237633
+    second: FinalStageArt_41
+  - first:
+      213: 2828495821429233995
+    second: FinalStageArt_42
+  - first:
+      213: -2317794838368561706
+    second: FinalStageArt_43
+  - first:
+      213: 8479965005321386661
+    second: FinalStageArt_44
+  - first:
+      213: -5293138500566580446
+    second: FinalStageArt_45
+  - first:
+      213: 4105932318896391907
+    second: FinalStageArt_46
+  - first:
+      213: 3145206699138684008
+    second: FinalStageArt_47
+  - first:
+      213: -125810866354498128
+    second: FinalStageArt_48
+  - first:
+      213: 7811163974271870711
+    second: FinalStageArt_49
+  - first:
+      213: 1554764747179948451
+    second: FinalStageArt_50
+  - first:
+      213: 756453452051632875
+    second: FinalStageArt_51
+  - first:
+      213: -1567195937807791313
+    second: FinalStageArt_52
+  - first:
+      213: -2211299990339683255
+    second: FinalStageArt_53
+  - first:
+      213: 900501001407610892
+    second: FinalStageArt_54
+  - first:
+      213: 4463770333920270302
+    second: FinalStageArt_55
+  - first:
+      213: 5214807509810863659
+    second: FinalStageArt_56
+  - first:
+      213: -5638540121148054351
+    second: FinalStageArt_57
+  - first:
+      213: 116793759119915323
+    second: FinalStageArt_58
+  - first:
+      213: -1522522737959321538
+    second: FinalStageArt_59
+  - first:
+      213: 8726855931686222248
+    second: FinalStageArt_60
+  - first:
+      213: 3845094934178426722
+    second: FinalStageArt_61
+  - first:
+      213: -5669741358216953197
+    second: FinalStageArt_62
+  - first:
+      213: -3595472183173210705
+    second: FinalStageArt_63
+  - first:
+      213: 1746571886142479590
+    second: FinalStageArt_64
+  - first:
+      213: -4735278631835497185
+    second: FinalStageArt_65
+  - first:
+      213: -4997071251622082056
+    second: FinalStageArt_66
+  - first:
+      213: 3420657588881967233
+    second: FinalStageArt_67
+  - first:
+      213: 2645297894753810691
+    second: FinalStageArt_68
+  - first:
+      213: -1319192992702301255
+    second: FinalStageArt_69
+  - first:
+      213: -1446596502186661417
+    second: FinalStageArt_70
+  - first:
+      213: -542671982087636610
+    second: FinalStageArt_71
+  - first:
+      213: -1914797550035219027
+    second: FinalStageArt_72
+  - first:
+      213: 5756637152643632748
+    second: FinalStageArt_73
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FinalStageArt_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 724
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223abc4e057183cc0800000000000000
+      internalID: -3731206655073082590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 724
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94973ce0ea2ca3210800000000000000
+      internalID: 1313576294159710537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 724
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b19aa666a2a64530800000000000000
+      internalID: 3838934567950651832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_3
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 724
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18b1829a79c5a630800000000000000
+      internalID: 3937774977486534682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_4
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 724
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5909c09762cd807f0800000000000000
+      internalID: -646024488729931627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_5
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 724
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4440a6ac51b12e70800000000000000
+      internalID: 9088740534501000271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_6
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 724
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8b4f0f784fe2c10800000000000000
+      internalID: 2030829346691004604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_7
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 724
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4ad0eb3146d52d0800000000000000
+      internalID: -3288362116954872639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 652
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a61765ce3e25c910800000000000000
+      internalID: 1856941268494915238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_9
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 652
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199ead73685595df0800000000000000
+      internalID: -191027474235463279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_10
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 652
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a3f288035c7ba20800000000000000
+      internalID: 3078145682564921976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_11
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 652
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70026301b1b206ee0800000000000000
+      internalID: -1269967699682385913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_12
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 652
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7545d218be979cb0800000000000000
+      internalID: -4857239159668652673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_13
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 652
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c6b7ce7ab0813c0800000000000000
+      internalID: -4388745021017592784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_14
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 580
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e7e7b54bb7797b0800000000000000
+      internalID: -5217565628726084075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_15
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 580
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822993fb0bb0a1d80800000000000000
+      internalID: -8279292111216864728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_16
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 580
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a645db90a4d61cec0800000000000000
+      internalID: -3548434866632829846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_17
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 580
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835b776ede35da6a0800000000000000
+      internalID: -6436396011203611336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_18
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 580
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505402f7954f549f0800000000000000
+      internalID: -484712719650372347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_19
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 508
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36783d87cf14b8750800000000000000
+      internalID: 6308208255677204323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_20
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 508
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c559bc4fb2e31b170800000000000000
+      internalID: 8192397555675141468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_21
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 508
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2793122c9db390d0800000000000000
+      internalID: -3417179213959817427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_22
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 508
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e72409e33aea890800000000000000
+      internalID: -7444833644893274466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_23
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 436
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd926d1c2026ede40800000000000000
+      internalID: 5683087543769639387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_24
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 436
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b50e3cdfd479ea40800000000000000
+      internalID: 5397974133201831345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_25
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 436
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0ac4c53c4d29530800000000000000
+      internalID: 3860381766142173421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_26
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 436
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ebf43e5c3008ca0800000000000000
+      internalID: -6016804953709887861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_27
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 436
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3ca09b77530a520800000000000000
+      internalID: 2711225763998909386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_28
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 364
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116c413dd08f45b20800000000000000
+      internalID: 3122393179934213649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_29
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 364
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae176130dc5d6910800000000000000
+      internalID: 1832222672661454509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_30
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 364
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc31d99b9d880d010800000000000000
+      internalID: 1211618768466023371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_31
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 364
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22adc6cb31a3508d0800000000000000
+      internalID: -2880832530193524190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_32
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 364
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3daddff3eb6d386d0800000000000000
+      internalID: -2989309615038145837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_33
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 364
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c64898b9f238f80800000000000000
+      internalID: -8105582559263167357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_34
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 292
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc0be9c1272a1210800000000000000
+      internalID: 1304398068152208577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_35
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 292
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500fa28f3b4c23240800000000000000
+      internalID: 4770091232580530181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_36
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 292
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b630b72de02525a10800000000000000
+      internalID: 1896668616690697067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_37
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 292
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9076c53202bd4e610800000000000000
+      internalID: 1649684294603138825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_38
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 292
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe70238c86f80c8b0800000000000000
+      internalID: -5133945895004272657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_39
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 292
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c6f48697b88db70800000000000000
+      internalID: 8924036015191977062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_40
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 292
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae0b59bf13688b40800000000000000
+      internalID: 5442709137582132905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_41
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 292
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4058ae03ac62420800000000000000
+      internalID: 2604991745922237633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_42
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4957fca6f5d04720800000000000000
+      internalID: 2828495821429233995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_43
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5deccefd985dfd0800000000000000
+      internalID: -2317794838368561706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_44
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aabce95e33eea570800000000000000
+      internalID: 8479965005321386661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_45
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22309c6f39efa86b0800000000000000
+      internalID: -5293138500566580446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_46
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e68d9b90b33bf830800000000000000
+      internalID: 4105932318896391907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_47
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864175f24d406ab20800000000000000
+      internalID: 3145206699138684008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_48
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b55e020fa7014ef0800000000000000
+      internalID: -125810866354498128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_49
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6adc0df34d66c60800000000000000
+      internalID: 7811163974271870711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_50
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 148
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9f5f0dc42a39510800000000000000
+      internalID: 1554764747179948451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_51
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 148
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2d7a228667f7a00800000000000000
+      internalID: 756453452051632875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_52
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 148
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b08811993304ae0800000000000000
+      internalID: -1567195937807791313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_53
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 148
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c7affef52ef41e0800000000000000
+      internalID: -2211299990339683255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_54
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 148
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00c8c4c3e83f7c00800000000000000
+      internalID: 900501001407610892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_55
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 148
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed79e38f77f72fd30800000000000000
+      internalID: 4463770333920270302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_56
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 148
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ed05a0dc7be5840800000000000000
+      internalID: 5214807509810863659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_57
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 148
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4ae2352a1efb1b0800000000000000
+      internalID: -5638540121148054351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_58
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 76
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39335c1e4fee9100800000000000000
+      internalID: 116793759119915323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_59
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 76
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30ca71f2a9eedae0800000000000000
+      internalID: -1522522737959321538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_60
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 76
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9fa26ab350c1970800000000000000
+      internalID: 8726855931686222248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_61
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 76
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26feb5f68758c5530800000000000000
+      internalID: 3845094934178426722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_62
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 76
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392432736480151b0800000000000000
+      internalID: -5669741358216953197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_63
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 76
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad992a59115a1ec0800000000000000
+      internalID: -3595472183173210705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_64
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 76
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecd43070e11d3810800000000000000
+      internalID: 1746571886142479590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_65
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 76
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d82f44c29e84eb0800000000000000
+      internalID: -4735278631835497185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_66
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9cfb91c26d6aab0800000000000000
+      internalID: -4997071251622082056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_67
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 4
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188cd8324fd987f20800000000000000
+      internalID: 3420657588881967233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_68
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 4
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309b3ed7b6cf5b420800000000000000
+      internalID: 2645297894753810691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_69
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 4
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb7bc766f841bde0800000000000000
+      internalID: -1319192992702301255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_70
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 4
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d967d94528acebe0800000000000000
+      internalID: -1446596502186661417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_71
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 4
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79fb1e15ba0878f0800000000000000
+      internalID: -542671982087636610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_72
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 4
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dadcc55f5c54d65e0800000000000000
+      internalID: -1914797550035219027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalStageArt_73
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 4
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ec3288dfea3ef40800000000000000
+      internalID: 5756637152643632748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: 8f8edc1f29214a14c969cec64cdc5971, type: 3}
+      name: _Emission
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

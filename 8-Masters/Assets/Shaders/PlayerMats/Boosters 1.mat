@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Boosters 1
+  m_Shader: {fileID: -6465566751694194690, guid: 5c8668483a4b9ee429886a7b59f5f98d,
+    type: 3}
+  m_ShaderKeywords: ETC1_EXTERNAL_ALPHA
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_3D48A3F4:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Emission:
+        m_Texture: {fileID: 2800000, guid: a32c095cf6a1d2140b908c843b84d474, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Emission1:
+        m_Texture: {fileID: 2800000, guid: a102b78e773ab7f44a53298c1995f5a3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Emission2:
+        m_Texture: {fileID: 2800000, guid: 5d80b958ba84102469447dd5b8da88d7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Emission3:
+        m_Texture: {fileID: 2800000, guid: 8bd224a297a7cd34b9407bdad563e7ba, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 7da380c2f425e364f929fa099ba3bbca, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats: []
+    m_Colors:
+    - Color_1C798E89: {r: 0, g: 0, b: 0, a: 0}
+    - Color_C34228DE: {r: 2.828427, g: 2.6398654, b: 0, a: 0}
+    - Color_C40BAFA5: {r: 2.828427, g: 0, b: 0, a: 0}

@@ -1,0 +1,1220 @@
+fileFormatVersion: 2
+guid: c9676832e9d92d140848ac83afe45be1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6412213069447142401
+    second: rainforestRiver_0
+  - first:
+      213: -2048534926254881981
+    second: rainforestRiver_1
+  - first:
+      213: -5455180550755072470
+    second: rainforestRiver_2
+  - first:
+      213: 5209882170438181090
+    second: rainforestRiver_3
+  - first:
+      213: 1270670871027745979
+    second: rainforestRiver_4
+  - first:
+      213: -5299832491620777536
+    second: rainforestRiver_5
+  - first:
+      213: -6401532189313978220
+    second: rainforestRiver_6
+  - first:
+      213: -6000909932751141928
+    second: rainforestRiver_7
+  - first:
+      213: 6407711411921817348
+    second: rainforestRiver_8
+  - first:
+      213: -2145070895423846971
+    second: rainforestRiver_9
+  - first:
+      213: -3725608769082737897
+    second: rainforestRiver_10
+  - first:
+      213: -433990379361739768
+    second: rainforestRiver_11
+  - first:
+      213: 8549358060296509323
+    second: rainforestRiver_12
+  - first:
+      213: -8716000718239032537
+    second: rainforestRiver_13
+  - first:
+      213: 4104064278746638448
+    second: rainforestRiver_14
+  - first:
+      213: 1558841602917774456
+    second: rainforestRiver_15
+  - first:
+      213: -7906818459516360384
+    second: rainforestRiver_16
+  - first:
+      213: -8999321001257736955
+    second: rainforestRiver_17
+  - first:
+      213: 7223177958996152012
+    second: rainforestRiver_18
+  - first:
+      213: 4509021824431260972
+    second: rainforestRiver_19
+  - first:
+      213: -6356493769367201321
+    second: rainforestRiver_20
+  - first:
+      213: -3229119035684693072
+    second: rainforestRiver_21
+  - first:
+      213: 4747702388801499305
+    second: rainforestRiver_22
+  - first:
+      213: -4937529027877123273
+    second: rainforestRiver_23
+  - first:
+      213: 3705900564934888049
+    second: rainforestRiver_24
+  - first:
+      213: 7522863169196450814
+    second: rainforestRiver_25
+  - first:
+      213: -3891837255054362953
+    second: rainforestRiver_26
+  - first:
+      213: -5543750789446418339
+    second: rainforestRiver_27
+  - first:
+      213: -1487515621866110589
+    second: rainforestRiver_28
+  - first:
+      213: 4655322122318594224
+    second: rainforestRiver_29
+  - first:
+      213: -4469898878348681380
+    second: rainforestRiver_30
+  - first:
+      213: -584613349931135153
+    second: rainforestRiver_31
+  - first:
+      213: -5180954588213346982
+    second: rainforestRiver_32
+  - first:
+      213: 7255005331867451061
+    second: rainforestRiver_33
+  - first:
+      213: -2274589196966826466
+    second: rainforestRiver_34
+  - first:
+      213: -887053805756880280
+    second: rainforestRiver_35
+  - first:
+      213: 8088164529490753135
+    second: rainforestRiver_36
+  - first:
+      213: 365270929516876328
+    second: rainforestRiver_37
+  - first:
+      213: -813948828715760419
+    second: rainforestRiver_38
+  - first:
+      213: 935962562677573210
+    second: rainforestRiver_39
+  - first:
+      213: 7261347599369722257
+    second: rainforestRiver_40
+  - first:
+      213: -7334586541479015855
+    second: rainforestRiver_41
+  - first:
+      213: -2309064529246335131
+    second: rainforestRiver_42
+  - first:
+      213: 5156804120258858637
+    second: rainforestRiver_43
+  - first:
+      213: 5969237283694771493
+    second: rainforestRiver_44
+  - first:
+      213: -3221730914676566246
+    second: rainforestRiver_45
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rainforestRiver_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 796
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c938430d1ccf850800000000000000
+      internalID: 6412213069447142401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestRiver_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 796
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343c89296542293e0800000000000000
+      internalID: -2048534926254881981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestRiver_2
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 796
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26cf9e113e4b44b0800000000000000
+      internalID: -5455180550755072470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestRiver_3
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 796
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0eb9a1b383d4840800000000000000
+      internalID: 5209882170438181090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestRiver_4
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 796
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb48b06cc6452a110800000000000000
+      internalID: 1270670871027745979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestRiver_5
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 796
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1ced7bd663376b0800000000000000
+      internalID: -5299832491620777536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestRiver_6
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 724
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49036bdf3603927a0800000000000000
+      internalID: -6401532189313978220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestRiver_7
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 724
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d34149d53c78bca0800000000000000
+      internalID: -6000909932751141928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestRiver_8
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 724
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f01d26493cce850800000000000000
+      internalID: 6407711411921817348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestRiver_9
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 724
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c58b3cb26d2b32e0800000000000000
+      internalID: -2145070895423846971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestRiver_10
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 724
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b3eba409afb4cc0800000000000000
+      internalID: -3725608769082737897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestRiver_11
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 724
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cd432ac082af9f0800000000000000
+      internalID: -433990379361739768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestRiver_12
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 724
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8798910cdb65a670800000000000000
+      internalID: 8549358060296509323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestRiver_13
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 724
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b105fa68b8a0780800000000000000
+      internalID: -8716000718239032537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestRiver_14
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 652
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078201e97b094f830800000000000000
+      internalID: 4104064278746638448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestRiver_15
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 652
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874b303cd2e12a510800000000000000
+      internalID: 1558841602917774456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestRiver_16
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 652
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049a601d086554290800000000000000
+      internalID: -7906818459516360384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestRiver_17
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 652
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505e154da3dfb1380800000000000000
+      internalID: -8999321001257736955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestRiver_18
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 652
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce856b6512ed3460800000000000000
+      internalID: 7223177958996152012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestRiver_19
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 652
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2585b1a573439e30800000000000000
+      internalID: 4509021824431260972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestRiver_20
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 580
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d952eb489239c7a0800000000000000
+      internalID: -6356493769367201321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestRiver_21
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 580
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bbdf8c785ddf23d0800000000000000
+      internalID: -3229119035684693072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestRiver_22
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 580
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a079cf0b2a33e140800000000000000
+      internalID: 4747702388801499305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestRiver_23
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 580
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b4431628f5a7bb0800000000000000
+      internalID: -4937529027877123273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestRiver_24
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 580
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a0dd9dde00e6330800000000000000
+      internalID: 3705900564934888049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestRiver_25
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 580
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3e2ddc134966860800000000000000
+      internalID: 7522863169196450814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestRiver_26
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 508
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b67ad8e2aa6df9c0800000000000000
+      internalID: -3891837255054362953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestRiver_27
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 508
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5041cf6704a013b0800000000000000
+      internalID: -5543750789446418339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestRiver_28
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 508
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38183d05c684b5be0800000000000000
+      internalID: -1487515621866110589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestRiver_29
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 508
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b041d72ec60b9040800000000000000
+      internalID: 4655322122318594224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestRiver_30
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 436
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f1c1617aab7f1c0800000000000000
+      internalID: -4469898878348681380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestRiver_31
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 436
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f4762714903e7f0800000000000000
+      internalID: -584613349931135153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestRiver_32
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 364
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5dfc1c704d8918b0800000000000000
+      internalID: -5180954588213346982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestRiver_33
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 364
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be368129e4fea460800000000000000
+      internalID: 7255005331867451061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestRiver_34
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 364
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ee9d83d290f60e0800000000000000
+      internalID: -2274589196966826466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestRiver_35
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 364
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ae333734d80b3f0800000000000000
+      internalID: -887053805756880280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestRiver_36
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 292
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66f53169ceee3070800000000000000
+      internalID: 8088164529490753135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestRiver_37
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 292
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82251a0a9f3b11500800000000000000
+      internalID: 365270929516876328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestRiver_38
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 292
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd44d0f4ad544b4f0800000000000000
+      internalID: -813948828715760419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestRiver_39
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 292
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a560677edf43dfc00800000000000000
+      internalID: 935962562677573210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestRiver_40
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199511b5b2d75c460800000000000000
+      internalID: 7261347599369722257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestRiver_41
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a48cc9660563a90800000000000000
+      internalID: -7334586541479015855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestRiver_42
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f41da6b0e84ffd0800000000000000
+      internalID: -2309064529246335131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestRiver_43
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 148
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ecc448606a09740800000000000000
+      internalID: 5156804120258858637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestRiver_44
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 148
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52df4a2eeadf6d250800000000000000
+      internalID: 5969237283694771493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rainforestRiver_45
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 148
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a171fc47dcc1a43d0800000000000000
+      internalID: -3221730914676566246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c95338c3dc8791746971b78f260c7b15
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

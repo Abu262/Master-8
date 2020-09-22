@@ -1,0 +1,214 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7644610435824294679
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7644610435824294677}
+  - component: {fileID: 7644610435824294678}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7644610435824294677
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7644610435824294679}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.902902, y: 6.2800984, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7644610435824294678
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7644610435824294679}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 212d6ad50aa22d64d961fab48e9d2c57, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: Sniper
+    clip: {fileID: 8300000, guid: 3935965ad71d41a4281ce704af09b737, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Grenade
+    clip: {fileID: 8300000, guid: f9713d075c17aec4081ba5236580a256, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Rifle
+    clip: {fileID: 8300000, guid: 8932a3d04c2fc0045a036b9966e37eaa, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Machinegun
+    clip: {fileID: 8300000, guid: 2b5d6ac6786621e49a83f6d9e76eac3f, type: 3}
+    volume: 0.1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Shotgun
+    clip: {fileID: 8300000, guid: 5630843db241aac42bdc98eeda8ef898, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Missile
+    clip: {fileID: 8300000, guid: 174b04aac7949fc45958ff1b7ba3ffc9, type: 3}
+    volume: 0.75
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: ECarbine
+    clip: {fileID: 8300000, guid: 64cc187798db3e747833e1d89e8aae0b, type: 3}
+    volume: 0.25
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Railgun
+    clip: {fileID: 8300000, guid: a8e9dd9c91a11fe4c9f7b7df90a2de6b, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: ECannon
+    clip: {fileID: 8300000, guid: 13436f0c9c9129845a36c9499335101f, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: OverDriveBlast
+    clip: {fileID: 8300000, guid: 6807a5d96cc3f9949bf10ed6a6316fe3, type: 3}
+    volume: 1
+    pitch: 0.5
+    loop: 0
+    source: {fileID: 0}
+  - name: Boosters
+    clip: {fileID: 8300000, guid: 1b1eb8ab7fc4af941ae847f84e943f72, type: 3}
+    volume: 0.25
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: Start1
+    clip: {fileID: 8300000, guid: d7d7b329c524f9c42bf7e0cbe68109a2, type: 3}
+    volume: 0.25
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Start2
+    clip: {fileID: 8300000, guid: 7febe2b5c2560b047b9d23cedb55f1e9, type: 3}
+    volume: 0.25
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Start3
+    clip: {fileID: 8300000, guid: 7ab717c446fc82140b916e0fda10969f, type: 3}
+    volume: 0.25
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Start4
+    clip: {fileID: 8300000, guid: 36a6bc522cb93344295e77512769491d, type: 3}
+    volume: 0.25
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Start5
+    clip: {fileID: 8300000, guid: ec3e5e9f2a297e547a4e28a0009f7879, type: 3}
+    volume: 0.25
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: TempleSong
+    clip: {fileID: 8300000, guid: 49d479dcd7d6a2a4cac87b278ffa3591, type: 3}
+    volume: 0.15
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: AirArenaSong
+    clip: {fileID: 8300000, guid: c660513f35036ab40bf8bfd37de5a55a, type: 3}
+    volume: 0.15
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: DesertSong
+    clip: {fileID: 8300000, guid: a3a787388328d9a4d9d14edabbcf9877, type: 3}
+    volume: 0.15
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: MenuSong
+    clip: {fileID: 8300000, guid: 16e8b2765c189e64883a202f7125b04b, type: 3}
+    volume: 0.15
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: overBoosters
+    clip: {fileID: 8300000, guid: 1b1eb8ab7fc4af941ae847f84e943f72, type: 3}
+    volume: 0.35
+    pitch: 0.8
+    loop: 0
+    source: {fileID: 0}
+  - name: ManufactureSong
+    clip: {fileID: 8300000, guid: 1b2b0863c955f3c42947c47a6b11878d, type: 3}
+    volume: 0.15
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: ArenaSong
+    clip: {fileID: 8300000, guid: c6b1850d3d5f93f468cb589d6085571c, type: 3}
+    volume: 0.15
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: BridgeSong
+    clip: {fileID: 8300000, guid: b7ac93eb1e9d57b419981ec1de1bc3cb, type: 3}
+    volume: 0.15
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: RainforestSong
+    clip: {fileID: 8300000, guid: fe2dadb3ad1110e459bd9dee6f8d021c, type: 3}
+    volume: 0.15
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: UndergroundSong
+    clip: {fileID: 8300000, guid: 4f22d9548cae386489398bbd47980727, type: 3}
+    volume: 0.15
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: AISong
+    clip: {fileID: 8300000, guid: 7e24711f59def8648b8b37641f6ec968, type: 3}
+    volume: 0.15
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: FinalSong
+    clip: {fileID: 8300000, guid: 8c6d384ae152ce244a5a22e217bfc9de, type: 3}
+    volume: 0.25
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
